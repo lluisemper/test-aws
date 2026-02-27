@@ -1,1 +1,0 @@
-import{w as e,v as s,q as o}from"./chunk-LFPYN7LY-Duktu34j.js";const a=e(function(){const t=s();return o.jsxs("div",{children:[o.jsx("p",{children:"This is the Home page."}),o.jsx("button",{onClick:()=>t("/about"),children:"Go to About"})]})});export{a as default};
